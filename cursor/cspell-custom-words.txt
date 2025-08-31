@@ -4,6 +4,7 @@ appts
 asvetliakov
 attributors
 Authorizable
+Authorizisation
 Automigrate
 Barbee
 behaviour
@@ -37,9 +38,11 @@ fortawesome
 frontends
 Gmcc
 gorhom
+Groupon
 haspopup
 hookform
 HUGUES
+Ical
 initdb
 initialise
 initialised
@@ -50,6 +53,7 @@ javascripts
 languagedetector
 lazydev
 libpq
+lightningcss
 Lngs
 maiddesk
 Mailchimp
@@ -59,6 +63,7 @@ mvcp
 netinfo
 notifs
 NVIM
+Opensearch
 organisation
 pangea
 PG_DEV_DATABASE
@@ -79,6 +84,7 @@ Scheel
 Signout
 skhd
 sqft
+streetview
 summernote
 tableview
 tanstack
@@ -88,6 +94,8 @@ unstaged
 uppy
 usehooks
 vaul
+Viewability
 VITE
 wezterm
+wojtekmaj
 zenmaid
